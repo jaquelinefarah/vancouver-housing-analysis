@@ -9,7 +9,11 @@ To investigate whether municipalities with older housing stocks experience lower
 
 Data analysis of housing age and income disparities across Metro Vancouver municipalities (2025 Housing Data Book)
 
-<pre> ```markdown ├── notebooks/ # Jupyter Notebooks (EDA & analysis) │ ├── 01_data_preparation.ipynb │ ├── 02_eda_univariate.ipynb │ └── 03_eda_multivariate.ipynb ├── raw/ # Original housing and income data (.xlsx) ├── processed/ # Cleaned & merged datasets (.pkl) └── README.md # Project overview ``` </pre>
+<pre> ```markdown ├── notebooks/ # Jupyter Notebooks (EDA & analysis) │ 
+  ├── 01_data_preparation.ipynb │ 
+  ├── 02_eda_univariate.ipynb │ └── 03_eda_multivariate.ipynb ├── raw/ 
+  # Original housing and income data (.xlsx) ├── processed/ # Cleaned & merged datasets (.pkl) 
+  └── README.md # Project overview ``` </pre>
 
 
 ## 📊 Key Findings
